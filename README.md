@@ -1,8 +1,3 @@
-# FS22_AutoDrive_Sort
-FS22 Auto Sort
-
-
-
 # FS22 AutoDrive Sort (v2.0.1)
 
 If you are playing FS22 and like to cycle thru the destinations with the keyboard, a button on a steering wheel or (as I do) with a PS4 controller, 
