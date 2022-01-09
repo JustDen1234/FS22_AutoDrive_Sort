@@ -1,3 +1,10 @@
+# Announcement !!
+With the release of AutoDrive version 2.0.0.3 for FS22, this commandline tool is not necessary anymore. Thanks for using my little program !
+Happy farming...
+
+
+___
+
 # FS22 AutoDrive Sort (v2.0.1)
 
 If you are playing FS22 and like to cycle thru the destinations with the keyboard, a button on a steering wheel or (as I do) with a PS4 controller, 
